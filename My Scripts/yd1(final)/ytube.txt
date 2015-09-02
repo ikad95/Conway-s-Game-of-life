@@ -1,0 +1,9 @@
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/README.MD
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/asciiart
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/dep
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/nohup.out
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/prev.txt
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/run this to start
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/yda
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/ydagent.sh
+/home/ikad/Desktop/Kom Bhul Bhal/yd1(final)/ytube.txt
