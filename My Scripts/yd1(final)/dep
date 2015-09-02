@@ -1,3 +1,0 @@
-echo "downloading dependencies..."
-sudo apt-get install xsel
-sudo apt-get install youtube-dl
